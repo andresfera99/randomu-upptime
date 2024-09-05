@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/randomu.vercel.app.ico",
     "slug": "randomu",
     "status": "up",
-    "uptime": "0.64%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "0.64%",
-    "uptimeMonth": "0.64%",
-    "uptimeYear": "0.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 94,
     "timeDay": 94,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
-    "dailyMinutesDown": {
-      "2024-09-05": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
