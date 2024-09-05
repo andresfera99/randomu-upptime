@@ -1,22 +1,22 @@
 [
   {
     "name": "Randomu",
-    "url": "https://www.randomu.vercel.app",
-    "icon": "https://icons.duckduckgo.com/ip3/www.randomu.vercel.app.ico",
+    "url": "https://randomu.vercel.app/",
+    "icon": "https://icons.duckduckgo.com/ip3/randomu.vercel.app.ico",
     "slug": "randomu",
-    "status": "down",
-    "uptime": "2.44%",
-    "uptimeDay": "2.44%",
-    "uptimeWeek": "2.44%",
-    "uptimeMonth": "2.44%",
-    "uptimeYear": "2.44%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-09-05": 0
+      "2024-09-05": 7
     }
   }
 ]
